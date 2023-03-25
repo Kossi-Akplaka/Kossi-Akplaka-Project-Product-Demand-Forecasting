@@ -32,6 +32,7 @@
  ### Split the data between features and target variable 'Demand'
  ### Tried 3 different models:
  ## XGboost:  Sequentially built shallow decision trees to provide accurate results and a highly scalable training method that avoids overfitting.
+ ![](Xgboost_feature_importance.png)
  ## Arima: Capture trends in the data and forecasting 
  ## Sarima: Capture the seasonality in the data
  
