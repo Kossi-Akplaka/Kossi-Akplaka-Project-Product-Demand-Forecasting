@@ -1,7 +1,7 @@
 # Product Demand Forecasting: Project Overview
 * Utilized Python and time series techniques to forecast product demand
 * Performed exploratory data analysis by exploring the features and the relationship between those features
-* Engineered features and used hyperparameter tunning to reach the best model 
+* Engineered features and used hyperparameter tuning to reach the best model 
 
 ## Data and packages
 * Data: https://www.kaggle.com/datasets/felixzhao/productdemandforecasting
